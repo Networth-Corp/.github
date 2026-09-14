@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Candidate questions
+    url: https://www.networth-corp.com/careers
+    about: Do not file issues here. Reply on your hiring email thread (CC careers@networth-corp.com).
+  - name: Careers
+    url: mailto:careers@networth-corp.com
+    about: Roles and assignment logistics.
